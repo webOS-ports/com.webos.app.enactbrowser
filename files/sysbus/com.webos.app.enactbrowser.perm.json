@@ -2,10 +2,12 @@
     "com.webos.app.enactbrowser-*": [
         "application.operation",
         "application.launcher",
+        "application.internal",
         "intent.operation",
         "media.operation",
         "account.query",
         "settings.query",
+        "settings.read",
         "mediapipeline.resourcemanagement",
         "mediapipeline.operation",
         "mediacontroller.operation",
